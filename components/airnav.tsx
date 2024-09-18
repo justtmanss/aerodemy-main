@@ -5,7 +5,7 @@ const stats = [
     { label: "\u00a0", value: "Flash course" },
     { label: "28", value: "Days" },
     { label: "2", value: "Hours per day" },
-    { label: "Rs. 33,000", value: "Course fees" },
+    { label: "Rs. 35,000", value: "Course fees" },
 ];
 
 const stats1 = [
