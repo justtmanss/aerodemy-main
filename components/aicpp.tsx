@@ -14,7 +14,7 @@ const stats = [
     { label: "Rs. 5,500", value: "Resume & Cut-e Test" },
     { label: "Rs. 6,500", value: "Group Discussion" },
     { label: "Rs. 8,000", value: "Personal Interview" },
-    { label: "Rs. 18,000", value: "Full Course" },
+    { label: "Rs. 20,000", value: "Full Course" },
 ];
 const values = [
     {

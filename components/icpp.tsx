@@ -13,8 +13,8 @@ import {
 const stats = [
     { label: "Rs. 4,500", value: "ADAPT Test" },
     { label: "Rs. 6,500", value: "Group Discussion" },
-    { label: "Rs. 8,000", value: "Personal Interview" },
-    { label: "Rs. 17,000", value: "Full Course" },
+    { label: "Rs. 9,000", value: "Personal Interview" },
+    { label: "Rs. 20,000", value: "Full Course" },
 ];
 const values = [
     {
