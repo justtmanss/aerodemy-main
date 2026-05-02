@@ -166,7 +166,7 @@ export default function AICPP() {
                                     Flash Course
                                     <br />
                                     <span className="text-white">
-                                        Rs. 35,000
+                                        Rs. 40,000
                                     </span>
                                 </a>
                             </div>
@@ -178,7 +178,7 @@ export default function AICPP() {
                                     Full Course
                                     <br />
                                     <span className="text-white">
-                                        Rs. 30,000
+                                        Rs. 35,000
                                     </span>
                                 </a>
                             </div>
