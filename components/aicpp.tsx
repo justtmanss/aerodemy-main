@@ -11,9 +11,9 @@ import {
 } from "@heroicons/react/20/solid";
 
 const stats = [
-    { label: "Rs. 5,500", value: "Resume & Cut-e Test" },
-    { label: "Rs. 7,500", value: "Group Discussion" },
-    { label: "Rs. 9,000", value: "Personal Interview" },
+    { label: "Rs. 10,000", value: "Resume & Cut-e Test" },
+    { label: "Rs. 10,000", value: "Group Discussion" },
+    { label: "Rs. 10,000", value: "Personal Interview" },
     { label: "Rs. 27,000", value: "Full Course" },
 ];
 const values = [
