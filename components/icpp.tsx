@@ -14,7 +14,7 @@ const stats = [
     { label: "Rs. 5,500", value: "ADAPT Test" },
     { label: "Rs. 7,500", value: "Group Discussion" },
     { label: "Rs. 9,000", value: "Personal Interview" },
-    { label: "Rs. 20,000", value: "Full Course" },
+    { label: "Rs. 27,000", value: "Full Course" },
 ];
 const values = [
     {
